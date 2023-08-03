@@ -1,6 +1,3 @@
----
-layout: default
----
 # Other Python projects
 
 ## Tic Tac Toe
