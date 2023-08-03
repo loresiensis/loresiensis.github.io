@@ -1,5 +1,3 @@
-![Me](https://drive.google.com/file/d/1nYoO_oovkc4iVMUc1Rl17Ue0ec7jUrkb/view?usp=drive_link)
-
 # Other Python projects
 
 ## Tic Tac Toe
